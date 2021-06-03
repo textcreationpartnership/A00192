@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be enquired of, in the visitacion, of the ryght reuerende father in God, Ioh[a]n Bysshop of Lyncol[n]n, in the sixte yeare of the reygne of our moste drade souereygne lorde kynge Edwarde the sixte [et]c. with certayne generall aduertysementes, then gyuen by the sayd bysshop to the clergie and people of his dioces, for an uniformitie, to be obserued in the same. Anno d[omi]ni, 1552.</title>
+            <title>Visitation articles. 1552</title>
+            <author>Church of England. Diocese of Lincoln. Bishop (1552-1554 : Taylor)</author>
+         </titleStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A00192</idno><idno type="EEBO-CITATION">99845507</idno>
+  <idno type="VID">10412</idno>
+  <idno type="EEBO-PROQUEST">2240853103</idno>
+  <idno type="STC">STC 10228</idno>
+  <idno type="STC">ESTC S109864</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845507e"/>
+            <note>(EEBO-TCP ; phase 2, no. A00192)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 10412)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 222:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be enquired of, in the visitacion, of the ryght reuerende father in God, Ioh[a]n Bysshop of Lyncol[n]n, in the sixte yeare of the reygne of our moste drade souereygne lorde kynge Edwarde the sixte [et]c. with certayne generall aduertysementes, then gyuen by the sayd bysshop to the clergie and people of his dioces, for an uniformitie, to be obserued in the same. Anno d[omi]ni, 1552.</title>
+                  <title>Visitation articles. 1552</title>
+                  <author>Church of England. Diocese of Lincoln. Bishop (1552-1554 : Taylor)</author>
+                  <author>Taylor, John, 1503?-1554.</author>
+               </titleStmt>
+               <extent>[10+] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Wyer,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1552]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Signatures: A⁵+.</note>
+                  <note>Imperfect; lacks all after leaf A5.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Early works to 1800.</term>
+               <term type="topical_term">Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title">
+            <pb facs="tcp:10412:1"/>
+            <pb facs="tcp:10412:1"/>
+            <p>¶ Articles to be enqui<g ref="char:EOLhyphen"/>red of, in the visitacion, of the ryght Reuerende Father in GOD, Iohn̄ Bysshop of Lyncoln̄, in the sixte yeare of the Reygne of our moste drade Souereygne lorde kynge Edwarde the sixte. &amp;c. with certayne generall aduer<g ref="char:EOLhyphen"/>tysementes, then gyuen by the sayd Bysshop to the Clergie and people of his Dioces, for an vniformitie, to be obserued in the same.</p>
+            <p>Anno dn̄i. <hi>1552.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="ecclesiastical_visitation">
+            <pb facs="tcp:10412:2"/>
+            <figure>
+               <figDesc>royal coat of arms</figDesc>
+               <p>DIEV ET DROYT</p>
+               <p>HONY SOYT QVI MAL Y PENSE</p>
+            </figure>
+            <pb facs="tcp:10412:2"/>
+            <p>
+               <seg rend="decorInit">W</seg>Hether you knowe any per<g ref="char:EOLhyphen"/>sone that haue cōmytted adultry, fornycacion, incest, bawdrye, or be vehemently suspected of the same, or be cōmon dronkardes scoulders or cōmon swerers and blasphemers of Goddes ho<g ref="char:EOLunhyphen"/>ly name.</p>
+            <p>¶ Whether your {per}sons or vicars doth maynteyne theyr howses, &amp; chauncels in suffycyent reparacion or if theyr howses be indecay whether they bestowe yerely the fyfte parte of the fruytes of the benefyce vntyll the same be repared.</p>
+            <p>¶ Whether such persons and vicars as be absent from theyr benefyces doeth leaue theyr cure to cu<g ref="char:EOLhyphen"/>rates suffycyent and able. And yf he may dyspende yerely .xx. ɫi. or aboue, in this deanery, or els wher, whether he doth dystrybute euery yeare, amonges his poore parysheners there at the least the forty parte of the fruytes of y<seg rend="sup">e</seg> same. And lykewyse spen<g ref="char:EOLhyphen"/>dynge yerely. ¶. pounde whether he doth fynde one Scholer ateyther of the vnyuersytes, or some grā<g ref="char:EOLunhyphen"/>mer scole. And so for euery other hundreth pounde one scoler.☞❧☞❧</p>
+            <p>¶ Whether any parsone, or vicar haue come to theyr benyfyces by symony or haue .ii. benyfyces or moo without lawfull dyspensacion.</p>
+            <pb facs="tcp:10412:3"/>
+            <p> ¶ Whether your mynystres haue dylygently pro<g ref="char:EOLhyphen"/>cured suche as are lycensed to preache in theyr cure or haue refused any that haue beyn<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> lycensed or haue absented them selues or caused other to be a way from the sermon or haue admytted any to pre<g ref="char:EOLunhyphen"/>che that are not lycensed. ☞❧☞</p>
+            <p>¶ Whether any haue hyd and kepte secretely any Images, Antyphonares, Messals, Prymers, and other suche bokes of Laten seruyce whiche are for<g ref="char:EOLhyphen"/>bed by the order of this Realme.</p>
+            <p>¶ Whether mynysters do dylygently, &amp; reuerently mynyster the sacramentes in theyr Cure.</p>
+            <p>¶ Whether your curate do earnestly exorte theyr parisheners to dyspose thē selues to the often Re<g ref="char:EOLhyphen"/>ceauynge of the communyon.</p>
+            <p>¶ Whether your mynysters receyuyth the sacra<g ref="char:EOLhyphen"/>ment, except there be one at the leaste to communy<g ref="char:EOLhyphen"/>cate with hym. ☞❧</p>
+            <p>¶ Whether the mynyster vseth any eleuacyon or showynge the Sacrament before the distribucion thereof. ☞ ❧☞❧☞</p>
+            <p>¶ Whether the mynister or any other do reserue y<seg rend="sup">e</seg> sacrament and not Immedyatly receyue it.</p>
+            <p>¶ Whether the parisheners do offer euery sonday
+<pb facs="tcp:10412:3"/>the Iust value of the holy Loffe to the vse of the cu<g ref="char:EOLunhyphen"/>rate in that order as they were wonte to paye the holy Loffe. And whether y<seg rend="sup">e</seg> same person to whome suche course do come or one at the least of his how<g ref="char:EOLhyphen"/>solde or els one appoynted by hym do Receyue the communyon that same day with the mynyster.</p>
+            <p>¶ Whether Baptisme be mynystred out of;i<g ref="char:EOLhyphen"/>tye in any other tyme then on y<seg rend="sup">e</seg> sonday or holy daye or in any other tounge then Englyshe.</p>
+            <p>¶ Whether any taryeth in the quere after the of<g ref="char:EOLhyphen"/>fertory other then those that do cōmunycat, except clerkes and mynysters.</p>
+            <p>¶ Whether your curate do admyt any suche to the Lordes table as are open and notaryous euyll ly<g ref="char:EOLhyphen"/>uers, or hathe done wrong to theyr neyghboure by worde or dede wherby other are offended or be openly knowen to be in malyce or hatred before y<seg rend="sup">e</seg> amendement of theyr Lyfe and satysfaccyon, and reconsylyacion to theyr neyghboures.</p>
+            <p>¶ Whether the curate do admyte any to the com<g ref="char:EOLhyphen"/>munyon before he be confyrmed or any that cannot the Pater noster, the artycles of the Fayth, &amp; the .x. commaundementes in Englyshe.</p>
+            <p>¶ Whether curates do mynyster the communyon for money or vseth to haue trentall of cōmunyons.</p>
+            <pb facs="tcp:10412:4"/>
+            <p> ¶ Whether there be any y<seg rend="sup">t</seg> pryuatly in theyr pry<g ref="char:EOLhyphen"/>uat house haue theyr masses contrary to the forme and order of the booke of the cōmunyon.</p>
+            <p>¶ Whether any be maryed within degres prohyby<g ref="char:EOLunhyphen"/>ted by godes lawe, or seperat without cause law<g ref="char:EOLhyphen"/>full or, is maryed</p>
+            <p>¶ Whether euery wensday and fryday is sayd or songe the englyshe processyon in y<seg rend="sup">e</seg> churche, and whe<g ref="char:EOLunhyphen"/>ther the mynyster, yf none be there to cōmunycate with hym doth say suche prayers after the Let any as are appointed for the cōmunyon vntyll the of<g ref="char:EOLhyphen"/>fortory.</p>
+            <p>¶ Whether the sayd seruyce and mynystracion of Sacramētes be sayde or song so audibly dystinct<g ref="char:EOLhyphen"/>ly and playnely and in such place of the churche as the people may best here it and betherby edyfyed.</p>
+            <p>¶ Whether inholders or ale howse kepers or taue<g ref="char:EOLhyphen"/>ners do vse comonly to sell meate drynke, or vitals in the tyme of seruyce or preachynge, or whether any other do sell wares or kepe barbores shoppes at seruyce tyme so that by that meanes the people be rather occasion to be absent.</p>
+            <p>¶ Whether any grace be sayde at dyner or supper in any of her tounge then in the englyshe.</p>
+            <p>¶ Whether orgaynes do play awaye any parte of the prayer or seruece.</p>
+            <p>¶ Whether any do vse to praye vpon bedes.</p>
+            <p>¶ Whether youre curate once in. vi. wekes at the leaste vpon some sondaye or holyday before euyn<g ref="char:EOLhyphen"/>songe
+<pb facs="tcp:10412:4"/>do openly in the churche instructe &amp; examyne chyldren not confyrmed, in some partes of the ca<g ref="char:EOLhyphen"/>thechisme. ❧☞❧☞</p>
+            <p>¶ And whether parentes and maysters dosend thē thyther vpon warnynge gyuen by the mynyster. Whether there be set vp in some conuenye at place of the churche one booke of the whole byble in the largest volume in englyshe and the paraphrasys of Erasmus vpon the new testament lykewyse in en<g ref="char:EOLhyphen"/>glyshe, And whether your minister doth dyscorage any to loke and reade therupon, so that it be done quyetly without contencion.</p>
+            <p>¶ Whether you haue one boke or Regyster in your churche safely kept wherin euery sonday are wry<g ref="char:EOLhyphen"/>ten y<seg rend="sup">e</seg> weddynges chrystenynges &amp; buryenges that were had the weke before.</p>
+            <p>¶ Whether euerye mynyster vnder the degre of a bachyler of dyuynytye haue of his owne the newe Testament both in englyshe and latynge w<seg rend="sup">t</seg> pa<g ref="char:EOLhyphen"/>raphrasis of Erasmus vpon the same and do dyly<g ref="char:EOLhyphen"/>gently study the same in conferrynge the one with the other. ☞❧☞</p>
+            <p>¶ Whether any vseth any other prymers then the Englyshe set forth by the kynges mayieste or any other latyn prymers, then is set forthe by the same aucthoryte yf he vnderstandeth laten excepte those prymers that were set forthe by Kynge henry the eyght so that Inuocacion or prayer to saintes in y<seg rend="sup">e</seg> same prymers be blotted out.</p>
+            <pb facs="tcp:10412:5"/>
+            <p> ¶ Whether any other grammer be taught then the whiche is set out by the kynges maiestye.</p>
+            <p>¶ Withoute banes th<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yse fyrste asked thre seue<g ref="char:EOLhyphen"/>rall holydayes or sondayes openly in the churche at seruyse tyme.</p>
+            <p>¶ Whether any Curate do marye them of other paryshes without that curat{is} lycence and Certy<g ref="char:EOLhyphen"/>fycat from hym of the banes thryse solemly asked.</p>
+            <p>¶ Whether you haue a decent &amp; a comely Table, touered with a fayre whyte lynen cloth for the my<g ref="char:EOLhyphen"/>nystracion of the holy cōmunyon.</p>
+            <p>¶ Whether your Person, or Curat, vse his table aulter lyke hauyng vpon y<seg rend="sup">e</seg> same tapers or candels burnynge tossyng the boke from the one ende to the other or otherwyse by lyckynge wasshynge dow<g ref="char:EOLhyphen"/>kynge holdynge vp handes or ryngnyg of sacryng belles do counterfet the popyshe masse.</p>
+            <p>¶ Whether any vseth to kepe abrogat holydayes or pryuayt holydayes as Bakers, Shoinakers, brners smythes and suche other.</p>
+            <p>¶ Whether any vseth to hallowe water, breade, sal<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e belles or candels vpō candelmas daye ashes vpon ashewenesday, palmes vpon palmes sonday, the font on Ester euyne fyre, or pascall, or whether there was any sepulchre on good fryday.</p>
+            <p>¶ Vvhether any be a letter of the worde of god to be preached or read in the englyshe tonge.</p>
+            <pb facs="tcp:10412:5"/>
+            <p> ¶ Vhether euery sondaye one parte of an homelye as it is now deuyded is red imedyatly after the cre<g ref="char:EOLunhyphen"/>de yf there be no sermon openly &amp; dystynctly that all the churche may heare and vnderstande it, and so lykewyse the epystell gospell and the lessons.</p>
+            <p>¶ Vvhether deane archedecon &amp; prebēdary beyng preste do personally by hym self preche twyse euery yere at y<seg rend="sup">e</seg> leaste ether where he is intytled, or where he hathe Iurysdyccion, or in some place vnyted or appropriate to the same.</p>
+            <p>¶ Vvhether any by preachynge wrytynge wordes or dede hath or doth mayntayne the vsurped pow<g ref="char:EOLhyphen"/>er of the by shoppe of rome.</p>
+            <p>¶ Vvhether any do preche declare or speke any thyn<g ref="char:EOLunhyphen"/>ge in derogacion of the boke of common prayer or any thyng therin conteyned or any parte therof.</p>
+            <p>¶ Vvhether any do prech or otherwyse opēly mayn<g ref="char:EOLunhyphen"/>tayne any erronyous opinion contrary to y<seg rend="sup">e</seg> worde of god. ❧{fleur-de-lys}❧☞</p>
+            <p>¶ Vvhether your mynysters haue bene dylygente in callymge vpon and exhortynge fathers and mo<g ref="char:EOLhyphen"/>thers maysters and seruauntes eyther in lernynge in some honeste occupacion or in husbandry.</p>
+            <p>¶ Vvhether your ministers euery holyday do recite openly and playnely in y<seg rend="sup">e</seg> pulpyt the Pater noster, the crede and y<seg rend="sup">e</seg> ten cōmaundemētes in englyshe.</p>
+            <p>¶ Vvhether Persones, Vyears and Curates and euery of thē haue exorted the people to be obedyent to the kynges maieste and his mynysters and to cha<g ref="char:EOLunhyphen"/>ritye and loue one to another.</p>
+            <pb facs="tcp:10412:6"/>
+            <p> ¶ Vvhether the seruyce is vsed to be sayde or songe vpon sondayes and holydayes in dewetyme and y<seg rend="sup">e</seg> sacramentes mynystred after that order, that is set out &amp; appoynted in the boke of common pray<g ref="char:EOLhyphen"/>er and none otherwyse, and the latanye also in the mydle alley of the churche knelynge.</p>
+            <p>¶ Vvhether your parisheners euery sonday &amp; holy<g ref="char:EOLhyphen"/>day do come to theyr owne perishe churche to heare dyuyne seruyce w<seg rend="sup">t</seg> scylence in prayer, pay there dew<g ref="char:EOLhyphen"/>tyes there and ons in the yeare at the leaste receyue the holy cōmunyon as it is in the boke of cōmon prayer appdynted. ☞❧</p>
+            <p>¶ Vvhether any doth in Enterludes, Playes, son<g ref="char:EOLhyphen"/>ges, Rymes or by open wordes declaryng, or speke any thynge in deprabynge or, despysinge the sayde boke or any thynge therin contayned.</p>
+            <p>¶ Vvhether any by open facte dede or threfynge do compell cause or otherwyse procure or mayntayne any mynister to syng or say any comō or open pray<g ref="char:EOLunhyphen"/>er or to mynister any sacrament other or otherwyse then is mencioned in the sayde boke.</p>
+            <p>¶ Vvhether any do wylfully Interrupt or, let any mynister to synge or say the sayde comon or open prayer or to mynister the sacrament in suche forme as is mencioned in the sayde boke.</p>
+            <p>¶ Whether any do vse to talke or, I angle in the churche, in the tyme of seruyce, preaching, reading the homely or, cōmunion tyll or, ryng belles at the same tyme or, maketh any other noyce to let the<gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:10412:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
